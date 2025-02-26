@@ -1,0 +1,568 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "Apoorva Bhoine",
+    "label": "AI ML Engineer",
+    "animated_main_label": "Engineer",
+    "animated_secondary_initial_label": "AI",
+    "animated_secondary_final_label": "ML",
+    "image": "/pfp.jpeg",
+    "email": "apoorvabhoine@gmail.com",
+    "url": "https://www.linkedin.com/in/apoorva-bhoine/",
+    "summary": "Highly motivated and results-oriented ML engineer with a strong background in data science, machine learning, and natural language processing. Proven ability to develop and deploy machine learning models that solve real-world problems.",
+    "theme": "red",
+    "location": {
+      "address": "Pune",
+      "city": "Maharashtra",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "X / Twitter",
+        "icon": "ri:twitter-fill",
+        "color": "#1DA1F2",
+        "username": "@arielGfalcon",
+        "url": "https://x.com/arielGfalcon"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "ri:linkedin-fill",
+        "color": "#0066C2",
+        "username": "Ariel Falcón",
+        "url": "https://linkedin.com/in/arielfalcon"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "ArielFalcon",
+        "url": "https://github.com/ArielFalcon"
+      },
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "Ariel González Falcón",
+        "url": "mailto:falconyumn@gmail.com"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "International Institute of Information Technology, IIIT Pune",
+      "area": "Electronics and Telecommunication Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2016-01-01",
+      "endDate": "2020-01-01",
+      "gpa": "4.0"
+    },
+    {
+      "institution": "Calixto García Medical School – Cuba",
+      "url": "https://www.linkedin.com/company/hospital-universitario-calixto-garcia/?originalSubdomain=cu",
+      "area": "Medicine (unfinished)",
+      "studyType": "Full-time student",
+      "startDate": "2018-9-01",
+      "endDate": "2021-7-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "date": "2025-05-01",
+      "url": "",
+      "issuer": "Amazon"
+    },
+    {
+      "name": "C1 Advanced English",
+      "date": "2025-01-03",
+      "url": "https://cert.efset.org/es/6jDrGH",
+      "issuer": "EF SET"
+    }
+  ],
+  "work": [
+    {
+      "name": "Ungray",
+      "position": "Associate Data Scientist",
+      "location_type": "Full-time",
+      "location": "Pune, IN",
+      "url": "https://www.linkedin.com/company/ungray-technologies-pvt-ltd/",
+      "startDate": "2023-06-01",
+      "endDate": "2024-02-01",
+      "highlights": [
+        "Collaborated to boost monthly revenue by 20% through the implementation of hypothesis testing (A/B testing) and Machine learning (NLP techniques) for online store.",
+        "Applied geopatial analysis in Tableau to uncover under-served markets for new customer acquisitions."
+      ],
+      "responsibilities": [
+        "Collaborated to boost monthly revenue by 20% through the implementation of hypothesis testing (A/B testing) and Machine learning (NLP techniques) for online store.",
+        "Applied geopatial analysis in Tableau to uncover under-served markets for new customer acquisitions."
+      ],
+      "skills": {
+        "Tableau": "simple-icons:tableau",
+        "Python": "simple-icons:python",
+        "Postman": "simple-icons:postman",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Kubernetes": "simple-icons:kubernetes",
+        "Docker": "simple-icons:docker"
+      }
+    },
+    {
+      "name": "Naavantrix",
+      "position": " Data Analytics Associate",
+      "location_type": "Full-time",
+      "location": "Pune, IN",
+      "url": "https://navaantrix.com/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-01",
+      "responsibilities": [
+        "Developed and maintained a hospitality data system by automating Power BI, created KPIs for dashboards to enable data-driven decision-making",
+        "Implemented and automated computer vision technology to analyze NIFTY shares data"
+      ],
+      "skills": {
+        "Power BI": "simple-icons:powerbi",
+        "Python": "simple-icons:python",
+        "Computer Vision": "simple-icons:opencv",
+        "Postman": "simple-icons:postman",
+        "GitHub": "mdi:github",
+        "Kubernetes": "simple-icons:kubernetes",
+        "Docker": "simple-icons:docker"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "SCSS",
+      "icon": "simple-icons:sass",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Preprocessor",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "simple-icons:bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Angular",
+      "icon": "simple-icons:angular",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Framework",
+        "UI"
+      ]
+    },
+    {
+      "name": "RxJS",
+      "icon": "simple-icons:reactivex",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Reactive Programming",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Vue",
+      "icon": "mdi:vuejs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "PNPM",
+      "icon": "simple-icons:pnpm",
+      "level": "Beginner",
+      "keywords": [
+        "Package Manager",
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Java",
+      "icon": "ri:java-line",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Spring",
+      "icon": "simple-icons:spring",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Java Framework"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Beginner",
+      "keywords": [
+        "Databases",
+        "File",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "icon": "simple-icons:mysql",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Databases",
+        "SQL",
+        "Relational Database"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Databases",
+        "SQL",
+        "Relational Database"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Computing",
+        "Backend",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Beginner",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "mdi:kubernetes",
+      "level": "Beginner",
+      "keywords": [
+        "Virtual Environments",
+        "Backend",
+        "Container Orchestration"
+      ]
+    },
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Beginner",
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Jest",
+      "icon": "simple-icons:jest",
+      "level": "Intermediate",
+      "keywords": [
+        "Testing",
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Jasmine",
+      "icon": "simple-icons:jasmine",
+      "level": "Intermediate",
+      "keywords": [
+        "Testing",
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Beginner",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Beginner",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Swagger",
+      "icon": "simple-icons:swagger",
+      "level": "Beginner",
+      "keywords": [
+        "API",
+        "Documentation",
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Postman",
+      "icon": "simple-icons:postman",
+      "level": "Intermediate",
+      "keywords": [
+        "API",
+        "Testing",
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Figma",
+      "icon": "simple-icons:figma",
+      "level": "Beginner",
+      "keywords": [
+        "Prototyping",
+        "Web Development",
+        "Frontend"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced - C1"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CV Matching System",
+      "isActive": true,
+      "description": "A propiertary code AI-driven CV matching system to connect the offer and the best candidates. Automates the recruitment process.",
+      "highlights": [
+        "🎯 Tailored job opportunities",
+        "✨ AI-driven complex workflows ",
+        "🚀 80% increase in productivity"
+      ],
+      "stack": {
+        "Python": "simple-icons:python",
+        "Redis": "simple-icons:redis",
+        "Firebase": "simple-icons:firebase",
+        "Google Cloud": "simple-icons:googlecloud",
+        "Claude": "ri:claude-fill",
+        "Groq": "ri:robot-2-fill"
+      },
+      "url": "https://www.gringojobs.com"
+    },
+    {
+      "name": "TODO List",
+      "isActive": false,
+      "description": "A simple app to showcase my skills in Angular. It's a TODO list with a beautiful and smooth UI, good user experience and best practices. Not finished yet.",
+      "highlights": [
+        "📝 In progress",
+        "😮‍ Made-from-scratch complex components",
+        "😊 Beautiful and smooth UI, good user experience",
+        "\uD83E\uDD16 Server Side Rendering"
+      ],
+      "github": "https://github.com/ArielFalcon/TODO-list",
+      "stack": {
+        "Angular": "simple-icons:angular",
+        "RxJS": "simple-icons:reactivex",
+        "TypeScript": "simple-icons:typescript",
+        "SCSS": "simple-icons:sass",
+        "NodeJS": "ri:nodejs-line",
+        "Firebase": "simple-icons:firebase"
+      }
+    },
+    {
+      "name": "Portfolio",
+      "isActive": true,
+      "description": "This website! My personal portfolio, made with Astro. Integrates many themes and key shortcut actions.",
+      "highlights": [
+        "🚀 Fast, modern and SEO-friendly",
+        "🎨 Printable CV generation",
+        "〔N〕Crazy NeoVim mode, try it!"
+      ],
+      "github": "https://github.com/ArielFalcon/portfolio",
+      "stack": {
+        "Astro": "simple-icons:astro",
+        "TypeScript": "simple-icons:typescript",
+        "Tailwind": "mdi:tailwind",
+        "NodeJS": "ri:nodejs-line",
+        "PNPM": "simple-icons:pnpm",
+        "Vercel": "simple-icons:vercel"
+      },
+      "url": "https://www.arielfalcon.me"
+    },
+    {
+      "name": "AI Web Scraper",
+      "isActive": false,
+      "description": "A web scraper that uses AI to extract data from websites. It's a tool to automate the data extraction process, using machine learning to identify and extract data from websites.",
+      "highlights": [
+        "🤖 Simple script",
+        "🔍 Data Extraction",
+        "🌐 Web scraping"
+      ],
+      "stack": {
+        "Javascript": "simple-icons:javascript",
+        "Selenium": "simple-icons:selenium",
+        "ChromeDriver": "ri:chrome-fill",
+        "Groq": "ri:robot-2-fill"
+      },
+      "github": "https://github.com/ArielFalcon/ai_web_scrapper"
+    },
+    {
+      "name": "SpaceX Invaders",
+      "isActive": true,
+      "description": "A Space Invaders game with a retro look, made with Vue3 and TypeScript. It's a fun project to showcase my skills in Vue3 and TypeScript.",
+      "highlights": [
+        "🚀 Space Invaders game",
+        "🛸 Retro fun",
+        "🎮 Vue3 + TypeScript"
+      ],
+      "stack": {
+        "Vue3": "ri:vuejs-line",
+        "TypeScript": "simple-icons:typescript",
+        "CSS": "simple-icons:css",
+        "Vite": "simple-icons:vite",
+        "PNPM": "simple-icons:pnpm",
+        "Netlify": "simple-icons:netlify"
+      },
+      "github": "https://github.com/ArielFalcon/spacex-invaders",
+      "url": "https://spacex-invaders.netlify.app/"
+    }
+  ]
+}
