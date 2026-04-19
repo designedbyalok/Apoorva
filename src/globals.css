@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  background-color: rgb(var(--color-fill)) !important;
+}
+
 @layer base {
   :root {
     --color-text-base: 0, 0, 0;
