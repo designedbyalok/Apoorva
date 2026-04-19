@@ -176,14 +176,19 @@ html {
 
   ::-webkit-scrollbar {
     width: 8px;
+    height: 8px;
   }
 
   ::-webkit-scrollbar-track {
     @apply bg-nvim-bg;
   }
 
-  ::-webkit-scrollbar-thumb {
+  ::-webkit-scrollbar-thumb,
+  ::-webkit-scrollbar-thumb:hover,
+  ::-webkit-scrollbar-thumb:active {
     @apply bg-nvim-gray rounded;
+    border: none;
+    background-clip: padding-box;
   }
   .modified-cursor-none {
     cursor: none !important;
